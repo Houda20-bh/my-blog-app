@@ -4,7 +4,7 @@
   "description": "My-Blog-App for my final project",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon backend/server.js"
+    "start": "node backend/server.js"
   },
   "author": "Houda Hattab",
   "license": "MIT",
